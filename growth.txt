@@ -1,0 +1,29 @@
+21
+*
+*
++
+A
+Growth
+
+############
+###Usage####
+1. Mode
+2. Attack Type
+3. Attack Damage
+4. Stat effect
+5. Stat target
+6. Attack Name
+
+* indicates a situationally meaningless parameter. For example, "Ember" has a stat effect of '*' because it has no stat effect where 'Leer' would have
+an attack damage of '*' because it does not deal damage.
+
+################
+####Mode Key####
+1 = attack
+21 = stat mod(self)
+22 = stat mod(point)
+
+################
+##Effects Key###
++ = step up one stat level
+- = step down one stat level
